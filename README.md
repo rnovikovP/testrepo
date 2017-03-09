@@ -1,4 +1,7 @@
+
+<a href="https://cla-assistant.io/rnovikovP/testrepo"><img src="https://cla-assistant.io/readme/badge/rnovikovP/testrepo" alt="CLA assistant" /></a>
 2
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rnovikovP/testrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

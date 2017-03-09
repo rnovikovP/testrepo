@@ -1,3 +1,4 @@
+<a href="https://cla-assistant.io/rnovikovP/testrepo"><img src="https://cla-assistant.io/readme/badge/rnovikovP/testrepo" alt="CLA assistant" /></a>
 1
 ## Welcome to GitHub Pages
 
